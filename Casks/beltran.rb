@@ -1,6 +1,6 @@
 cask "beltran" do
-  version "0.24.2"
-  sha256 "7340ee9da4c5bf925cc1ed24ffeb5b5081a967eadcf3dda8721928d2a6a075a6"
+  version "0.25.0"
+  sha256 "90bdc4852975604f9df8e79e56bdb21b7ffdda0986ca14b87f41dda310dc151d"
 
   url "https://github.com/RafaelD-B/belt.ran-dist/releases/download/v#{version}/belt.ran_#{version}_aarch64.dmg"
   name "belt.ran"
